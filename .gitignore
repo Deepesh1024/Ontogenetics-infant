@@ -8,6 +8,7 @@ __pycache__/
 .venv311/
 venv/
 env/
+ois_env/
 
 # Logs and databases
 logs/
